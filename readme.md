@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development and DSA in C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vishal-Singh-Thapa](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Vishal-Singh-Thapa)
 
 - 📄Checkout my resume [Resume](Resume)
 
