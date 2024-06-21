@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C;Vishal+Singh+Thapa+this+side;Glad+to+meet+you!!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&center=true&random=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C;Vishal+Singh+Thapa+this+side;Glad+to+meet+you!!" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-singh-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-singh-thapa" /> </p>
