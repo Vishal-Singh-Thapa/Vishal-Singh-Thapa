@@ -1,5 +1,8 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C;Vishal+Singh+Thapa+this+side;Glad+to+meet+you!!" alt="Typing SVG" /></a>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? 
+  font=Fira+Code&pause=1000&random=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C;Vishal+Singh+Thapa+this+side;Glad+to+meet+you!!" alt="Typing SVG" align="centre"/></a>
+</div>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-singh-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-singh-thapa" /> </p>
