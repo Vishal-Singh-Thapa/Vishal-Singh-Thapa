@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Vishal-Singh-Thapa)
 
-- 📄Checkout my resume [Resume](Resume)
+- 📄Checkout my resume [Resume](https://drive.google.com/file/d/1ot4Qzk3mI_R8tSvxK4k4iQOfKVpnKwAD/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
