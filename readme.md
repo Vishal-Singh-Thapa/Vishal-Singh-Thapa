@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/VST_11092001?theme=dark&font=Noto%20Sans%20Display&ext=contest" alt="LeetCode Stats">
 </div>
+<br> 
 - 🌱 I’m currently learning **MERN STACK and DSA in C++**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Vishal-Singh-Thapa)
