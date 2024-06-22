@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-singh-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-singh-thapa" /> </p>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/VST_11092001?theme=dark&font=Noto%20Sans%20Display&ext=contest" alt="LeetCode Stats">
+  <a href="https://www.leetcode.com/vst_11092001">
+    <img src="https://leetcard.jacoblin.cool/VST_11092001?theme=dark&font=Noto%20Sans%20Display&ext=contest" alt="LeetCode Stats">
+  </a>
 </div>
 <br> 
 - 🌱 I’m currently learning **MERN STACK and DSA in C++**
