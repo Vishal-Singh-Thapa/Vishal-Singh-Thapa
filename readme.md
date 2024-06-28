@@ -9,7 +9,7 @@
   </a>
 </div>
 <br> 
-- 🌱 I’m currently learning **MERN STACK and DSA in C++**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Vishal-Singh-Thapa)
 
