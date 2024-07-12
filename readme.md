@@ -9,7 +9,8 @@
   </a>
 </div>
 <br> 
--🌱 I’m currently learning **MERN Stack**
+
+- 🌱 I am currently learning Web Development.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Vishal-Singh-Thapa)
 
